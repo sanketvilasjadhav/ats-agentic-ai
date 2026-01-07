@@ -1,0 +1,5 @@
+gradio
+pdfplumber
+spacy
+scikit-learn
+numpy
